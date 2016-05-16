@@ -12,7 +12,6 @@ import dhbk.android.materialdesign.R;
 /**
  * Created by huynhducthanhphong on 5/16/16.
  */
-// TODO: 5/16/16 2 tạo fragment home
 public class HomeFragment extends Fragment {
 
     public HomeFragment() {
