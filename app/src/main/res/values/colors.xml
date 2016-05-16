@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!--color main for app-->
     <color name="colorPrimary">#F50057</color>
     <color name="colorPrimaryDark">#C51162</color>
     <color name="textColorPrimary">#FFFFFF</color>
